@@ -1,0 +1,15 @@
+img {
+  margin-top: 20px;
+  width: 1096px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+body {
+  margin-left: 400px;
+  margin-right: 400px;
+  background-image: url("../images/bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+}

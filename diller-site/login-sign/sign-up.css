@@ -1,0 +1,124 @@
+#name {
+  text-align: center;
+  font-size: large;
+  margin-left: 10px;
+  margin-top: 10px;
+  padding: 10px 5px 10px 5px;
+  border: solid #332fd0 3px;
+  border-radius: 40px 40px 40px 40px;
+}
+#surname {
+  text-align: center;
+  font-size: large;
+  margin-left: 10px;
+  margin-top: 10px;
+  padding: 10px 5px 10px 5px;
+  border: solid #332fd0 3px;
+  border-radius: 40px 40px 40px 40px;
+}
+#mail {
+  text-align: center;
+  font-size: large;
+  margin-left: 10px;
+  margin-top: 10px;
+  padding: 10px 130px 10px 130px;
+  border: solid #332fd0 3px;
+  border-radius: 40px 40px 40px 40px;
+}
+#sifre {
+  text-align: center;
+  font-size: large;
+  margin-left: 10px;
+  margin-top: 10px;
+  padding: 10px 130px 10px 130px;
+  border: solid #332fd0 3px;
+  border-radius: 40px 40px 40px 40px;
+}
+.bg {
+  margin-right: 700px;
+  margin-left: 700px;
+  margin-top: 150px;
+  padding-bottom: 20px;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: xx-large;
+  text-align: center;
+  padding-top: 30px;
+  color: #332fd0;
+}
+button {
+  margin-top: 10px;
+  margin-left: 140px;
+  padding-left: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 80px;
+  padding-left: 80px;
+  font-size: large;
+  border-radius: 40px 40px 40px 40px;
+  background-color: #332fd0;
+  color: white;
+}
+.ay {
+  margin-top: 10px;
+  margin-left: 10px;
+  padding: 10px 45px 10px 45px;
+  border: solid #332fd0 3px;
+}
+.gun {
+  margin-left: 10px;
+  padding: 10px 45px 10px 45px;
+  border: solid #332fd0 3px;
+}
+.yil {
+  margin-left: 10px;
+  padding: 10px 45px 10px 45px;
+  border: solid #332fd0 3px;
+}
+#gender {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+label {
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.cins {
+  border: solid #332fd0 3px;
+  margin: 10px 10px 10px 10px;
+}
+small {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#sz {
+  margin-left: 10px;
+  margin-right: 20px;
+  margin-top: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+}
+#a1 {
+  text-decoration: none;
+  color: #332fd0;
+}
+#a2 {
+  text-decoration: none;
+  color: #332fd0;
+}
+#a3 {
+  text-decoration: none;
+  color: #332fd0;
+}
+#hzv {
+  margin: 10px 0px 10px 160px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  font-size: large;
+  color: #332fd0;
+}
